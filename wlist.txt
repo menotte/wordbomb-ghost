@@ -1,0 +1,1 @@
+Vous devez placer votre wordlist ici, ou remplacer ce fichier texte par votre propre wordlist renommée en wlist.txt.
